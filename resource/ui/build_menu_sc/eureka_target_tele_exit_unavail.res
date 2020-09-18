@@ -11,4 +11,4 @@
 	{
 		"actionName"		"menu_right"
 	}
-}													
+}
