@@ -8,7 +8,7 @@
 		"suggested_players"	"16"
 		"map"			"cp_dustbowl"
 	}
-	
+
 	"maps"
 	{
 		"cp_dustbowl"
@@ -82,12 +82,12 @@
 			"name"				"Badwater Basin"
 			"min_players"		"12"
 			"max_players"		"24"
-		}	
+		}
 		"pl_barnblitz"
 		{
 			"name"				"Barnblitz"
 			"min_players"		"12"
 			"max_players"		"24"
-		}	
+		}
 	}
 }

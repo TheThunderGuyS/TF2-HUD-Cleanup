@@ -1,5 +1,5 @@
 "Resource/UI/MvMStatEntry.res"
-{	
+{
 	"ItemLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -12,7 +12,7 @@
 		"wide"			"70"
 		"fgcolor"		"tanlight"
 	}
-	
+
 	"ItemValue"
 	{
 		"ControlName"	"CExLabel"

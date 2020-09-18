@@ -1,5 +1,5 @@
 "Resource/UI/XPSourcePanel.res"
-{		
+{
 	"Indicator"
 	{
 		"fieldName"		"Indicator"

@@ -1,5 +1,5 @@
 "Resource/UI/LayeredMapPanelItem.res"
-{		
+{
 	"IsCompletedImage"
 	{
 		"ControlName"	"ScalableImagePanel"
@@ -12,7 +12,7 @@
 		"enabled"		"0"
 		"image"			"mvm/campaign_1_marker_down"
 	}
-	
+
 	"IsCompletedHighlight"
 	{
 		"ControlName"	"ScalableImagePanel"
@@ -25,7 +25,7 @@
 		"enabled"		"0"
 		"image"			"mvm/campaign_1_marker_over"
 	}
-	
+
 	"NotCompletedImage"
 	{
 		"ControlName"	"ScalableImagePanel"
@@ -38,7 +38,7 @@
 		"enabled"		"0"
 		"image"			"mvm/campaign_1_marker"
 	}
-	
+
 	"NotCompletedHighlight"
 	{
 		"ControlName"	"ScalableImagePanel"

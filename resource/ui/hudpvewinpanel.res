@@ -12,15 +12,15 @@
 		"image"			"../hud/tournament_panel_brown"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		
+
 		"visible"		"1"
 		"enabled"		"1"
-		
+
 		"src_corner_height"	"22"				// pixels inside the image
 		"src_corner_width"	"22"
-	
+
 		"draw_corner_width"	"5"				// screen size of the corners ( and sides ), proportional
-		"draw_corner_height" 	"5"	
+		"draw_corner_height" 	"5"
 	}
 
 	"WaveCompleteContainer"
@@ -33,9 +33,9 @@
 		"tall"			"24"
 		"visible"		"1"
 		"PaintBackgroundType" "2"
-		
+
 		"WinningTeamLabelDropshadow"
-		{	
+		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"WinningTeamLabelDropshadow"
 			"font"			"HudFontMediumSmallBold"
@@ -52,15 +52,15 @@
 			"textAlignment"		"Center"
 			"dulltext"		"0"
 			"brighttext"		"0"
-			
+
 			// blue Background
 			"PaintBackgroundType" "2"
-			"fgcolor_override"	"black"		
+			"fgcolor_override"	"black"
 			"bgcolor_override"	"91 122 142 200"
 		}
-		
+
 		"WinningTeamLabel"
-		{	
+		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"WinningTeamLabel"
 			"font"			"HudFontMediumSmallBold"
@@ -76,9 +76,9 @@
 			"textAlignment"		"Center"
 		}
 	}
-	
+
 	"WinReasonLabel"
-	{	
+	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"WinReasonLabel"
 		"font"			"HudFontSmall"
@@ -135,9 +135,9 @@
 
 		"src_corner_height"	"22"				// pixels inside the image
 		"src_corner_width"	"22"
-	
+
 		"draw_corner_width"	"5"				// screen size of the corners ( and sides ), proportional
-		"draw_corner_height" 	"5"	
+		"draw_corner_height" 	"5"
 	}
 
 	"RespecContainer"
@@ -150,7 +150,7 @@
 		"tall"			"25"
 		"visible"		"1"
 		"PaintBackgroundType" "2"
-	
+
 		"RespecTextLabelLoss"
 		{
 			"ControlName"	"CExLabel"
@@ -164,7 +164,7 @@
 			"tall"			"20"
 			"fgcolor"		"tanlight"
 		}
-		
+
 		"RespecCountLabel"
 		{
 			"ControlName"	"CExLabel"

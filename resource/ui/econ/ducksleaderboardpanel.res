@@ -70,7 +70,7 @@
 			"fgcolor_override"	"TanLight"
 			"proportionaltoparent" "1"
 		}
-		
+
 		"Line"
 		{
 			"ControlName"		"EditablePanel"
@@ -161,7 +161,7 @@
 		"visible"		"0"
 		"PaintBackgroundType"	"2"
 		"border"		"MainMenuBGBorder"
-		
+
 		"TipLabel"
 		{
 			"ControlName"	"CExLabel"

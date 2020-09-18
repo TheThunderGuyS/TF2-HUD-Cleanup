@@ -137,10 +137,10 @@
 		"use_proportional_insets" "1"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"west"
-					
+
 		"labelText"		""
-		"command"		"BrowseMaterial"			
-					
+		"command"		"BrowseMaterial"
+
 		"image_drawcolor"	"235 226 202 255"
 		"image_disabledcolor" "0 0 0 255"
 
@@ -202,10 +202,10 @@
 		"use_proportional_insets" "1"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"west"
-					
+
 		"labelText"		""
-		"command"		"BrowseNormalTexture"			
-					
+		"command"		"BrowseNormalTexture"
+
 		"image_drawcolor"	"235 226 202 255"
 		"image_disabledcolor" "0 0 0 255"
 
@@ -237,10 +237,10 @@
 		"use_proportional_insets" "1"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"west"
-					
+
 		"labelText"		""
-		"command"		"ClearNormalTexture"				
-					
+		"command"		"ClearNormalTexture"
+
 		"image_drawcolor"	"235 226 202 255"
 		"image_disabledcolor" "0 0 0 255"
 
@@ -255,7 +255,7 @@
 			"tall"			"13"
 			"scaleImage"	"1"
 			"image"			"glyph_close_X"
-		}		
+		}
 	}
 
 	"NormalTextureLabel"
@@ -338,7 +338,7 @@
 		"labelText"		""
 		"Font"			"ImportToolSmallestBold"
 		"textAlignment"	"west"
-		"xpos"			"c+1" 
+		"xpos"			"c+1"
 		"ypos"			"103"
 		"wide"			"30"
 		"tall"			"20"
@@ -366,10 +366,10 @@
 		"use_proportional_insets" "1"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"west"
-					
+
 		"labelText"		""
-		"command"		"BrowsePhongExponentTexture"			
-					
+		"command"		"BrowsePhongExponentTexture"
+
 		"image_drawcolor"	"235 226 202 255"
 		"image_disabledcolor" "0 0 0 255"
 
@@ -401,10 +401,10 @@
 		"use_proportional_insets" "1"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"west"
-					
+
 		"labelText"		""
-		"command"		"ClearPhongExponentTexture"				
-					
+		"command"		"ClearPhongExponentTexture"
+
 		"image_drawcolor"	"235 226 202 255"
 		"image_disabledcolor" "0 0 0 255"
 
@@ -419,7 +419,7 @@
 			"tall"			"13"
 			"scaleImage"	"1"
 			"image"			"glyph_close_X"
-		}		
+		}
 	}
 
 	"PhongExponentTextureLabel"
@@ -626,7 +626,7 @@
 		"labelText"		""
 		"Font"			"ImportToolSmallestBold"
 		"textAlignment"	"west"
-		"xpos"			"c+1" 
+		"xpos"			"c+1"
 		"ypos"			"203"
 		"wide"			"30"
 		"tall"			"20"
@@ -661,7 +661,7 @@
 		"labelText"		""
 		"Font"			"ImportToolSmallestBold"
 		"textAlignment"	"west"
-		"xpos"			"c+1" 
+		"xpos"			"c+1"
 		"ypos"			"223"
 		"wide"			"30"
 		"tall"			"20"
@@ -697,7 +697,7 @@
 		"labelText"		""
 		"Font"			"ImportToolSmallestBold"
 		"textAlignment"	"west"
-		"xpos"			"c+1" 
+		"xpos"			"c+1"
 		"ypos"			"243"
 		"wide"			"30"
 		"tall"			"20"
@@ -858,7 +858,7 @@
 		"labelText"		""
 		"Font"			"ImportToolSmallestBold"
 		"textAlignment"	"west"
-		"xpos"			"c+1" 
+		"xpos"			"c+1"
 		"ypos"			"293"
 		"wide"			"30"
 		"tall"			"20"
@@ -893,7 +893,7 @@
 		"labelText"		""
 		"Font"			"ImportToolSmallestBold"
 		"textAlignment"	"west"
-		"xpos"			"c+81" 
+		"xpos"			"c+81"
 		"ypos"			"293"
 		"wide"			"30"
 		"tall"			"20"
@@ -1111,7 +1111,7 @@
 		"labelText"		""
 		"Font"			"ImportToolSmallestBold"
 		"textAlignment"	"west"
-		"xpos"			"c+1" 
+		"xpos"			"c+1"
 		"ypos"			"357"
 		"wide"			"30"
 		"tall"			"20"
@@ -1139,10 +1139,10 @@
 		"use_proportional_insets" "1"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"west"
-					
+
 		"labelText"		""
-		"command"		"BrowseSelfIllumTexture"			
-					
+		"command"		"BrowseSelfIllumTexture"
+
 		"image_drawcolor"	"235 226 202 255"
 		"image_disabledcolor" "0 0 0 255"
 
@@ -1174,10 +1174,10 @@
 		"use_proportional_insets" "1"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"west"
-					
+
 		"labelText"		""
-		"command"		"ClearSelfIllumTexture"				
-					
+		"command"		"ClearSelfIllumTexture"
+
 		"image_drawcolor"	"235 226 202 255"
 		"image_disabledcolor" "0 0 0 255"
 
@@ -1192,7 +1192,7 @@
 			"tall"			"13"
 			"scaleImage"	"1"
 			"image"			"glyph_close_X"
-		}		
+		}
 	}
 
 	"SelfIllumTextureLabel"

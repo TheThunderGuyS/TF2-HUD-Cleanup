@@ -251,8 +251,8 @@
 		"Command"		"prevcustomtexture"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-	}	
-	
+	}
+
 	"CustomTextureNextButton"
 	{
 		"ControlName"	"CExButton"
@@ -276,8 +276,8 @@
 		"Command"		"nextcustomtexture"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-	}	
-	
+	}
+
 	"NoCustomTexturesLabel"
 	{
 		"ControlName"	"CExLabel"

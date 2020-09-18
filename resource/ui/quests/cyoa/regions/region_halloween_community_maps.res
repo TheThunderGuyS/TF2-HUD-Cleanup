@@ -1,7 +1,7 @@
 #base "region_base.res"
 
 "Resource/ui/quests/CYOA/regions/region_halloween_community_maps.res"
-{	
+{
 	"Region"
 	{
 		"ZoomPanel"

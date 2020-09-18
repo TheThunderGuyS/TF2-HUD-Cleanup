@@ -1,5 +1,5 @@
 "Resource/UI/MvMVictoryMannUpTab.res"
-{	
+{
 	"PlayerAvatar"
 	{
 		"ControlName"	"CAvatarImagePanel"
@@ -12,7 +12,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			""
-		"scaleImage"	"1"	
+		"scaleImage"	"1"
 		"color_outline"	"52 48 45 255"
 		"proportionalToParent"	"1"
 	}
@@ -66,9 +66,8 @@
 		"enabled"		"1"
 		"visible"		"1"
 		"labelText"		""
-		"paintbackground"	"0"	
+		"paintbackground"	"0"
 	}
-
 
 	"TabImage"
 	{
@@ -85,7 +84,7 @@
 		"enabled"		"1"
 		"tabPosition"		"0"
 		"bgcolor_override"	"76 70 66 255"
-		"PaintBackgroundType"	"2"	
+		"PaintBackgroundType"	"2"
 		"proportionalToParent"	"1"
 	}
 
@@ -104,7 +103,7 @@
 		"enabled"		"1"
 		"tabPosition"		"0"
 		"bgcolor_override"	"76 70 66 255"
-		"PaintBackgroundType"	"0"	
+		"PaintBackgroundType"	"0"
 		"proportionalToParent"	"1"
 	}
 

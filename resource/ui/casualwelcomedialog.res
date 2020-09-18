@@ -18,7 +18,6 @@
 		"bgcolor_override"	"Econ.Dialog.BgColor"
 	}
 
-
 	"CasualTitleLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -102,7 +101,6 @@
 		"fgcolor_override" "TanDark"
 	}
 
-	
 	"SectionThreeTitleLabel"
 	{
 		"ControlName"	"CExLabel"

@@ -1,5 +1,5 @@
 "Resource/UI/HudAchievementTrackerItem.res"
-{	
+{
 	"QuestObjectiveTextPanel"
 	{
 		"ControlName"	"EditablePanel"
@@ -10,8 +10,8 @@
 		"wide"			"250"
 		"tall"			"18"
 		"visible"		"1"
-		"enabled"		"1"	
-		
+		"enabled"		"1"
+
 		"PaintBackgroundType"	"2"
 
 		"enabled_text_color_override"		"235 226 202 255"
@@ -38,7 +38,7 @@
 		"TextAlignment"		"north-east"
 		"proportionaltoparent" "1"
 	}
-	
+
 	"AttribDesc"
 	{
 		"ControlName"	"Label"

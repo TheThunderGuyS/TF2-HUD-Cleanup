@@ -122,7 +122,7 @@
 				"zpos"			"1"
 				"wide"			"p0.2"
 				"tall"			"300"
-				"pinCorner"		"0"	
+				"pinCorner"		"0"
 				"visible"		"1"
 				"enabled"		"1"
 				"labelText"		"#TF_CollectionCrafting_Halloween_Paragraph1"
@@ -145,7 +145,7 @@
 				"zpos"			"1"
 				"wide"			"p0.2"
 				"tall"			"300"
-				"pinCorner"		"0"	
+				"pinCorner"		"0"
 				"visible"		"1"
 				"enabled"		"1"
 				"labelText"		"#TF_CollectionCrafting_Halloween_Paragraph2"
@@ -168,7 +168,7 @@
 				"zpos"			"1"
 				"wide"			"p0.8"
 				"tall"			"300"
-				"pinCorner"		"0"	
+				"pinCorner"		"0"
 				"visible"		"1"
 				"enabled"		"1"
 				"labelText"		"#TF_CollectionCrafting_Halloween_Paragraph3"
@@ -191,7 +191,7 @@
 				"zpos"			"1"
 				"wide"			"p0.4"
 				"tall"			"300"
-				"pinCorner"		"0"	
+				"pinCorner"		"0"
 				"visible"		"1"
 				"enabled"		"1"
 				"labelText"		"#TF_CollectionCrafting_Instructions_Halloween"
@@ -202,14 +202,14 @@
 				"fgcolor"		"RedSolid"
 				"wrap"			"1"
 			}
-	
+
 			"OkButton"
 			{
 				"xpos"			"p0.795"
 				"ypos"			"p0.84"
 				"wide"			"p0.18"
 				"tall"			"p0.085"
-				
+
 				"defaultFgColor_override" "235 226 202 255"
 				"armedFgColor_override" "200 80 60 255"
 				"depressedFgColor_override" "200 100 80 255"
@@ -223,12 +223,12 @@
 		{
 			"labelText"		"#TF_CollectionCrafting_Halloween_Explanation_Overview_Title"
 		}
-		
+
 		"TextLabel"
 		{
 			"labelText"		"#TF_CollectionCrafting_Halloween_Explanation_Overview_Text"
 		}
-	}	
+	}
 
 	"ItemSlotsExplanation"
 	{
@@ -239,25 +239,25 @@
 		"end_tall"		"120"
 		"callout_inparents_x"	"c75"
 		"callout_inparents_y"	"210"
-		
+
 		"TitleLabel"
 		{
 			"labelText"		"#TF_CollectionCrafting_Halloween_Explanation_ItemToTrade_Title"
 		}
-		
+
 		"TextLabel"
 		{
 			"labelText"		"#TF_CollectionCrafting_Halloween_Explanation_ItemToTrade_Text"
 		}
-		
+
 		"PrevButton"
 		{
-			"ypos"			"90"				
-		}		
+			"ypos"			"90"
+		}
 
 		"PositionLabel"
 		{
 			"ypos"			"90"
-		}	
-	}	
+		}
+	}
 }

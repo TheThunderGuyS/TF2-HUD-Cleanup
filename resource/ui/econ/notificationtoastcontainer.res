@@ -14,9 +14,8 @@
 		"border"		"TFFatLineBorderOpaque"
 	}
 
-
 	"HelpTextLabel"
-	{	
+	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"HelpTextLabel"
 		"fgcolor"		"RedSolid"

@@ -11,7 +11,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"proportionaltoparent" "1"
-		"eatmouseinput"	"0"		
+		"eatmouseinput"	"0"
 	} // EditableTooltip
 
 	"ActivateButton"
@@ -39,12 +39,12 @@
 		"proportionaltoparent" "1"
 		"actionsignallevel"	"2"
 		"textinsety"	"0"
-		"eatmouseinput"	"0"	
+		"eatmouseinput"	"0"
 		"font"			"QuestMap_Large"
 		"roundedcorners"	"0"
 
 		"paintbackground"	"1"
-			
+
 		"defaultBgColor_override"	"StoreGreen"
 		"armedBgColor_override"		"CreditsGreen"
 		"depressedBgColor_override" "CreditsGreen"
@@ -65,7 +65,7 @@
 		"tall"			"o0.25"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"	
+		"scaleImage"	"1"
 		"proportionaltoparent"	"1"
 		"image"			"cyoa/node_view_contract_image"
 		"mouseinputenabled"	"0"
@@ -254,7 +254,7 @@
 		"tall"			"10"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"	
+		"scaleImage"	"1"
 		"proportionaltoparent"	"1"
 		"image"			"info"
 	}
@@ -266,9 +266,9 @@
 		"pin_to_sibling_corner" "PIN_CENTER_BOTTOM"
 
 		"fieldName"		"objectives"
-		"xpos"			"0"	
+		"xpos"			"0"
 		"ypos"			"-25"
-		"wide"			"f0"	
+		"wide"			"f0"
 		"tall"			"200"
 		"proportionaltoparent"	"1"
 
@@ -279,9 +279,9 @@
 			"xpos"			"0"
 			"ypos"			"0"
 			"zpos"			"101"
-			"wide"			"f0"	
+			"wide"			"f0"
 			"tall"			"500"
-			"proportionaltoparent"	"1"	
+			"proportionaltoparent"	"1"
 			"visible"		"0"
 			"paintbackground"	"0"
 
@@ -292,9 +292,9 @@
 				"xpos"			"0"
 				"ypos"			"0"
 				"zpos"			"100"
-				"wide"			"f0"	
+				"wide"			"f0"
 				"tall"			"35"
-				"proportionaltoparent"	"1"	
+				"proportionaltoparent"	"1"
 				"bgcolor_override"	"0 0 0 240"
 				"visible"		"1"
 			}
@@ -306,7 +306,7 @@
 				"xpos"			"0"
 				"ypos"			"35"
 				"zpos"			"101"
-				"wide"			"f0"	
+				"wide"			"f0"
 				"tall"			"30"
 				"autoResize"	"0"
 				"pinCorner"		"0"
@@ -324,7 +324,7 @@
 				"proportionaltoparent" "1"
 				"actionsignallevel"	"3"
 				"textinsety"	"0"
-				"eatmouseinput"	"0"	
+				"eatmouseinput"	"0"
 				"font"			"QuestMap_Large"
 				"roundedcorners"	"0"
 
@@ -347,9 +347,9 @@
 				"xpos"			"0"
 				"ypos"			"64"
 				"zpos"			"100"
-				"wide"			"f0"	
+				"wide"			"f0"
 				"tall"			"300"
-				"proportionaltoparent"	"1"	
+				"proportionaltoparent"	"1"
 				"bgcolor_override"	"0 0 0 240"
 				"visible"		"1"
 			}
@@ -358,9 +358,9 @@
 		"ItemTrackerPanel"
 		{
 			"fieldName"		"ItemTrackerPanel"
-			"xpos"			"0"	
+			"xpos"			"0"
 			"ypos"			"0"
-			"wide"			"f0"	
+			"wide"			"f0"
 			"tall"			"200"
 			"progress_bar_standard_loc_token"	"#QuestPoints_Standard"
 			"progress_bar_advanced_loc_token"	"#QuestPoints_Bonus"

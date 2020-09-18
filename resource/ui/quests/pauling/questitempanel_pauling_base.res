@@ -4,7 +4,7 @@
 {
 	"QuestItemPanel"
 	{
-		"TrackerPanelResFile"	"resource/UI/quests/pauling/QuestItemTrackerPanel_QuestLog.res"	
+		"TrackerPanelResFile"	"resource/UI/quests/pauling/QuestItemTrackerPanel_QuestLog.res"
 		"ItemAttributeResFile"	"resource/UI/quests/pauling/QuestObjectivePanel_QuestLog.res"
 
 		"folders"

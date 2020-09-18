@@ -17,10 +17,10 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"		"LevelPic"
-		"xpos"		"10"	
-		"ypos"		"50"	
+		"xpos"		"10"
+		"ypos"		"50"
 		"wide"		"152"
-		"tall"		"86"	
+		"tall"		"86"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -65,7 +65,7 @@
 		"wrap"		"0"
 		"font"		"UiBold"
 	}
-	"CommentaryIcon" 
+	"CommentaryIcon"
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"		"CommentaryIcon"

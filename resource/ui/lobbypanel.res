@@ -34,7 +34,7 @@
 		"visible"		"0"
 		"PaintBackgroundType"	"2"
 		"border"		"MainMenuBGBorder"
-		
+
 		"TipLabel"
 		{
 			"ControlName"	"CExLabel"
@@ -116,7 +116,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"image"			"animated/tf2_logo_hourglass"
-		
+
 			"proportionaltoparent"	"1"
 		}
 	}
@@ -181,7 +181,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"image"			"animated/tf2_logo_hourglass"
-		
+
 			"proportionaltoparent"	"1"
 		}
 	}

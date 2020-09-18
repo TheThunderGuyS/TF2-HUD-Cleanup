@@ -34,7 +34,7 @@
 		"tall"			"100"
 		"visible"		"1"
 	}
-	
+
 	"MapName"
 	{
 		"ControlName"		"Label"
@@ -46,7 +46,7 @@
 		"font"		"UiBold"
 		"textAlignment"	"north-west"
 	}
-	
+
 	"Description"
 	{
 		"ControlName"		"Label"

@@ -1,22 +1,21 @@
 #base "QuestItemTrackerPanel_Base.res"
 
 "Resource/UI/HudAchievementTrackerItem.res"
-{	
+{
 	"ItemTrackerPanel"
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"ItemTrackerPanel"
-		"xpos"			"rs1"		
-		"ypos"			"0"		
+		"xpos"			"rs1"
+		"ypos"			"0"
 		"zpos"			"3"
 		"wide"			"250"
 		"tall"			"500"
 		"visible"		"1"
-		"enabled"		"1"	
-		
+		"enabled"		"1"
+
 		"attrib_y_start_offset" "8"
 		"attrib_x_offset" "0"
-
 
 		"PaintBackgroundType"	"2"
 		"proportionaltoparent" "1"
@@ -190,7 +189,6 @@
 				"enabled"		"1"
 				"proportionaltoparent" "1"
 
-
 				"PointsLabelInvert"
 				{
 					"ControlName"	"Label"
@@ -255,7 +253,6 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"proportionaltoparent" "1"
-
 
 				"PointsLabelInvert"
 				{
@@ -342,7 +339,7 @@
 		"scaleImage"	"1"
 		"proportionaltoparent" "1"
 	}
-	
+
 	"Star1"
 	{
 		"ControlName"	"ImagePanel"
@@ -358,7 +355,7 @@
 		"scaleImage"	"1"
 		"proportionaltoparent" "1"
 	}
-	
+
 	"Star2"
 	{
 		"ControlName"	"ImagePanel"
@@ -373,20 +370,19 @@
 		"image"			"cyoa/star_on"
 		"scaleImage"	"1"
 		"proportionaltoparent" "1"
-	}				
-
+	}
 
 	"NotYetCommittedContainer"
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"NotYetCommittedContainer"
-		"xpos"			"rs1"		
-		"ypos"			"0"		
+		"xpos"			"rs1"
+		"ypos"			"0"
 		"zpos"			"3"
 		"wide"			"f0"
 		"tall"			"10"
 		"visible"		"1"
-		"enabled"		"1"	
+		"enabled"		"1"
 
 		"proportionaltoparent" "1"
 

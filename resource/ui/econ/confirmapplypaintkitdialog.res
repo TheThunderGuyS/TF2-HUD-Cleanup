@@ -88,7 +88,7 @@
 			"frame_origin_y"	"0"
 			"frame_origin_z"	"0"
 			"spotlight" "1"
-		
+
 			"modelname"		""
 		}
 
@@ -128,7 +128,7 @@
 		"ypos"			"r30"
 		"proportionaltoparent"	"1"
 	}
-	
+
 	"OkButton"
 	{
 		"ypos"			"r30"

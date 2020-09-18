@@ -12,6 +12,6 @@
 		"visible"		"0"
 		"enabled"		"1"
 		"image"			"../effects/speech_taunt"
-		"scaleImage"		"1"	
+		"scaleImage"		"1"
 	}
 }

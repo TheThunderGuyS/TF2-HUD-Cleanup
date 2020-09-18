@@ -15,14 +15,14 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"settitlebarvisible"	"0"
-		
+
 		"bgcolor_override"	"46 43 42 0"
-		
+
 		"recipepanel_xpos"		"0"
 		"recipepanel_ydelta"	"4"
 		"border"		"EconItemBorder"
-		
-		"recipeskv"	
+
+		"recipeskv"
 		{
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
@@ -44,12 +44,12 @@
 			"depressedFgColor_override" "178 82 22 255"
 			"depressedBgColor_override" "0 0 0 0"
 			"auto_wide_tocontents" "1"
-			
+
 			"pin_to_sibling"               "CenterPositioner"
-			"pin_corner_to_sibling"        "4"          
-			"pin_to_sibling_corner"        "6"          	
+			"pin_corner_to_sibling"        "4"
+			"pin_to_sibling_corner"        "6"
 		}
-		
+
 		"checkmarkskv"
 		{
 			"wide"			"20"
@@ -62,9 +62,9 @@
 			"inactivedrawcolor"		"150 60 45 255"
 		}
 	}
-	
+
 	"TitleLabel"
-	{	
+	{
 		"ControlName"		"Label"
 		"fieldName"		"TitleLabel"
 		"font"			"HudFontMediumBold"
@@ -84,7 +84,7 @@
 		"fgcolor_override" "200 80 60 255"
 		"bgcolor_override" "0 0 0 0"
 	}
-	
+
 	"TopLine"
 	{
 		"ControlName"	"ImagePanel"
@@ -99,8 +99,8 @@
 		"image"			"loadout_dotted_line"
 		"tileImage"		"1"
 		"tileVertically" "0"
-	}				
-	
+	}
+
 	"recipecontainerscroller"
 	{
 		"ControlName"	"EditablePanel"
@@ -113,7 +113,7 @@
 		"fgcolor_override"	"59 54 48 255"
 		"bgcolor_override"	"200 187 161 0"
 	}
-		
+
 	"recipecontainer"
 	{
 		"ControlName"	"EditablePanel"
@@ -124,9 +124,9 @@
 		"tall"			"190"
 		"PaintBackgroundType"	"2"
 		"bgcolor_override"	"0 187 161 0"
-		
+
 		"CenterPositioner"
-		{	
+		{
 			"ControlName"		"Label"
 			"fieldName"		"CenterPositioner"
 			"font"			"HudFontSmallBold"
@@ -146,7 +146,7 @@
 			"bgcolor_override" "0 0 0 255"
 		}
 	}
-	
+
 	"mouseoveritempanel"
 	{
 		"ControlName"	"CItemModelPanel"
@@ -161,13 +161,13 @@
 		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"
-		
+
 		"text_ypos"			"20"
 		"text_center"		"1"
 		"model_hide"		"1"
 		"resize_to_text"	"1"
 		"padding_height"	"15"
-		
+
 		"attriblabel"
 		{
 			"font"			"ItemFontAttribLarge"
@@ -186,7 +186,7 @@
 			"centerwrap"	"1"
 		}
 	}
-	
+
 	"NoRecipesLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -205,7 +205,7 @@
 		"enabled"		"1"
 		"fgcolor_override" "200 80 60 255"
 	}
-	
+
 	"OkButton"
 	{
 		"ControlName"	"CExButton"
@@ -229,5 +229,5 @@
 		"Command"		"ok"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-	}		
+	}
 }

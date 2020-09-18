@@ -2,13 +2,13 @@
 {
 	"game"		"Team Fortress 2"
 	"chatlines"	"8"  // number of chat lines to keep (1-64)
-	
+
 	// These need to be 1bpp HICONs
 	"icons"
 	{
 		"game_icon"			"resource/game_1bpp.ico"
 	}
-	
+
 	// Global replacements
 	"replace"
 	{
@@ -19,13 +19,13 @@
 		"alive_true"		"Alive"
 		"alive_false"		"DEAD"
 	}
-		
+
 	// title page is special
 	"page"
 	{
 		// Special signal, this page is shown at startup and when disconnected from server
 		"titlepage"		"1"
-		
+
 		"static_icon"
 		{
 			"x"			"0"
@@ -34,7 +34,7 @@
 			"h"			"32"
 			"name"		"game_icon"
 		}
-		
+
 		"static_text"
 		{
 			"size"		"medium"
@@ -44,7 +44,7 @@
 			"w"			"120"
 			"text"		"Team Fortress 2"
 		}
-			
+
 		"static_text"
 		{
 			"size"		"medium"
@@ -54,17 +54,17 @@
 			"w"			"120"
 			"text"		" "
 		}
-			
+
 //		"icon"
 //		{
 //		}
 	}
-	
+
 	"page"   // Player health/wpn info
 	{
 		// Only show this if the player has a player entity in the game
 		"requiresplayer"	"1"
-	
+
 		"static_text"
 		{
 			"size"		"medium"
@@ -74,7 +74,7 @@
 			"w"			"150"
 			"text"		"Team:  team_%(localteam)m_szTeamName%"
 		}
-	
+
 		"static_icon"
 		{
 			"x"			"144"
@@ -83,7 +83,7 @@
 			"h"			"16"
 			"name"		"icon_%(localteam)m_szTeamName%"
 		}
-			
+
 		"static_text"
 		{
 			"size"		"medium"
@@ -93,7 +93,7 @@
 			"w"			"150"
 			"text"		"Health:  - %(localplayer)m_iHealth% -"
 		}
-		
+
 		"static_text"
 		{
 			"size"		"medium"
@@ -104,12 +104,12 @@
 			"text"		"(weapon_print_name):  - (ammo_primary) -"
 		}
 	}
-	
+
 	"page"   // My Team
 	{
 		// Create legend
 		"requiresplayer"	"1"
-		
+
 		"static_text"
 		{
 			"size"		"small"
@@ -120,7 +120,7 @@
 			"text"		"#"
 			"header"	"1"
 		}
-			
+
 		"static_text"
 		{
 			"size"		"small"
@@ -131,7 +131,7 @@
 			"text"		"team_%(localteam)m_szTeamName"
 			"header"	"1"
 		}
-		
+
 		"static_text"
 		{
 			"size"		"small"
@@ -148,7 +148,7 @@
 			"x"				"2"
 			"Y"				"13"
 			"y_increment"	"10"
-			
+
 			"static_text"
 			{
 				"size"		"small"
@@ -158,7 +158,7 @@
 				"w"			"10"
 				"text"		"(itemnumber)."
 			}
-			
+
 			"static_text"
 			{
 				"size"		"small"
@@ -168,7 +168,7 @@
 				"w"			"85"
 				"text"		"%(playerresource)m_szName[(playerindex)]%"
 			}
-			
+
 			"static_text"
 			{
 				"size"		"small"
@@ -180,12 +180,12 @@
 			}
 		}
 	}
-	
+
 	"page"   // Scoreboard info
 	{
 		// Create legend
 		"requiresplayer"	"1"
-		
+
 		"static_text"
 		{
 			"size"		"small"
@@ -196,7 +196,7 @@
 			"text"		"#"
 			"header"	"1"
 		}
-			
+
 		"static_text"
 		{
 			"size"		"small"
@@ -207,7 +207,7 @@
 			"text"		"Player"
 			"header"	"1"
 		}
-		
+
 		"static_text"
 		{
 			"size"		"small"
@@ -224,7 +224,7 @@
 			"x"				"2"
 			"Y"				"13"
 			"y_increment"	"10"
-			
+
 			"static_text"
 			{
 				"size"		"small"
@@ -234,7 +234,7 @@
 				"w"			"10"
 				"text"		"(itemnumber)."
 			}
-			
+
 			"static_text"
 			{
 				"size"		"small"
@@ -244,7 +244,7 @@
 				"w"			"85"
 				"text"		"%(playerresource)m_szName[(playerindex)]%"
 			}
-		
+
 			"static_text"
 			{
 				"size"		"small"
@@ -254,7 +254,7 @@
 				"w"			"15"
 				"text"		"%(playerresource)m_iScore[(playerindex)]%"
 			}
-		
+
 			"static_text"
 			{
 				"size"		"small"
@@ -264,7 +264,7 @@
 				"w"			"15"
 				"text"		"%(playerresource)m_iDeaths[(playerindex)]%"
 			}
-			
+
 			"static_text"
 			{
 				"size"		"small"
@@ -276,12 +276,12 @@
 			}
 		}
 	}
-	
+
 	// Chat
-	"page"   
+	"page"
 	{
 		"requiresplayer"	"1"
-		
+
 		"static_text"
 		{
 			"size"		"small"
@@ -291,7 +291,7 @@
 			"w"			"160"
 			"text"		"chat_1"
 		}
-		
+
 		"static_text"
 		{
 			"size"		"small"
@@ -301,7 +301,7 @@
 			"w"			"160"
 			"text"		"chat_2"
 		}
-		
+
 		"static_text"
 		{
 			"size"		"small"
@@ -311,7 +311,7 @@
 			"w"			"160"
 			"text"		"chat_3"
 		}
-		
+
 		"static_text"
 		{
 			"size"		"small"
@@ -321,10 +321,10 @@
 			"w"			"160"
 			"text"		"chat_4"
 		}
-		
+
 		// Insert a new subpage
 		"newsubpage"	"1"
-		
+
 	"static_text"
 		{
 			"size"		"small"
@@ -334,7 +334,7 @@
 			"w"			"160"
 			"text"		"chat_5"
 		}
-		
+
 		"static_text"
 		{
 			"size"		"small"
@@ -344,7 +344,7 @@
 			"w"			"160"
 			"text"		"chat_6"
 		}
-		
+
 		"static_text"
 		{
 			"size"		"small"
@@ -354,7 +354,7 @@
 			"w"			"160"
 			"text"		"chat_7"
 		}
-		
+
 		"static_text"
 		{
 			"size"		"small"

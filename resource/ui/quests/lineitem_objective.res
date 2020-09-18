@@ -1,5 +1,5 @@
 "Resource/UI/Quests/LineItem_Objective.res"
-{	
+{
 	"Objective"
 	{
 		"fieldName"		"Objective"

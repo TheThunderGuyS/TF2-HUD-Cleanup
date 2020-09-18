@@ -6,7 +6,7 @@
 		"fieldName"		"ModelContainer"
 		"xpos"			"cs-0.5"
 		"ypos"			"cs-0.5"
-		"zpos"			"3"		
+		"zpos"			"3"
 		"wide"			"f0"
 		"tall"			"f0"
 		"proportionaltoparent"	"1"
@@ -42,7 +42,7 @@
 				}
 			}
 
-			"paintbackground"	"0"	
+			"paintbackground"	"0"
 		}
 
 		"RankModel"
@@ -51,7 +51,7 @@
 			"fieldName"		"RankModel"
 			"xpos"			"cs-0.5"
 			"ypos"			"cs-0.5"
-			"zpos"			"0"		
+			"zpos"			"0"
 			"wide"			"o1"
 			"tall"			"p0.12"
 			"autoResize"	"0"
@@ -72,7 +72,7 @@
 			"paintbackground"	"0"
 
 			"render_texture"	"0"
-		
+
 			"model"
 			{
 				"force_pos"		"1"
@@ -97,7 +97,7 @@
 					"default"	"1"
 				}
 			}
-		
+
 			"lights"
 			{
 				"default"
@@ -320,8 +320,6 @@
 				"tall"			"30"
 				"proportionaltoparent"	"1"
 
-	
-
 				"CurrentXPLabel"
 				{
 					"ControlName"	"Label"
@@ -443,8 +441,6 @@
 					"border"		"InnerShadowBorder"
 				}
 
-
-	
 				// First column
 				"GamesLabel"
 				{

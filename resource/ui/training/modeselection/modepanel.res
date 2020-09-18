@@ -52,7 +52,7 @@
 			"wrap"				   "1"
 			"centerwrap"		   "1"
 		}
-		
+
 		"ImageFrame"
 		{
 			"ControlName"	"EditablePanel"
@@ -65,7 +65,7 @@
 			"enabled"		"1"
 			"border"		"MainMenuHighlightBorder"
 		}
-		
+
 		// Parented to ImageFrame in code.
 		"Image"
 		{
@@ -80,7 +80,7 @@
 			"tileImage"		"0"
 			"scaleImage"	"1"
 			"image"			""
-		}	
+		}
 	}
 
 	"StartButton"
@@ -110,7 +110,7 @@
 		"border_default"	"MainMenuButtonDefault"
 		"border_armed"		"MainMenuButtonArmed"
 		"paintbackground"	"0"
-		
+
 		"defaultFgColor_override" "46 43 42 255"
 		"armedFgColor_override" "235 226 202 255"
 		"depressedFgColor_override" "46 43 42 255"

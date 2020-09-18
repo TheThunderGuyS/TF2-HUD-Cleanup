@@ -13,7 +13,6 @@
 		"PaintBackgroundType"	"0"
 		"paintbackground"		"0"
 
-
 		"MainContainer"
 		{
 			"ControlName"	"EditablePanel"
@@ -45,7 +44,7 @@
 				"font"			"HudFontSmall"
 				"TextAlignment"		"north"
 				"proportionaltoparent" "1"
-			}	
+			}
 
 			"QuestNameLabel"
 			{

@@ -17,7 +17,7 @@
 		"scaleImage"	"1"
 		"proportionaltoparent"	"1"
 		"mouseinputenabled"	"0"
-	}		
+	}
 
 	"BGBorder"
 	{
@@ -35,7 +35,7 @@
 		"keyboardinputenabled"	"0"
 
 		"border"		"ReplayDefaultBorder"
-	}	
+	}
 
 	"Background"
 	{

@@ -16,7 +16,7 @@
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
 	}
-	
+
 	"TitleLabel"
 	{
 		"ControlName"		"CExLabel"
@@ -34,7 +34,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 	}
-	
+
 	"ExplanationLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -82,7 +82,7 @@
 		"armedBgColor_override"		"143 167 57 255"
 		"depressedBgColor_override"	"143 167 57 255"
 		"selectedBgColor_override"	"143 167 57 255"
-	}			
+	}
 
 	"ConfirmButton"
 	{
@@ -107,5 +107,5 @@
 		"Command"		"confirm"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-	}			
+	}
 }

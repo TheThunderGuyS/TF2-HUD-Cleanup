@@ -12,13 +12,13 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../hud/death_panel_blue_bg"
-		"scaleImage"		"1"	
+		"scaleImage"		"1"
 		"teambg_2"		"../hud/death_panel_red_bg"
 		"teambg_3"		"../hud/death_panel_blue_bg"
 	}
 
 	"WaitingForPlayersLabel"
-	{	
+	{
 		"ControlName"		"Label"
 		"fieldName"		"WaitingForPlayersLabel"
 		"font"			"HudFontMedium"
@@ -38,7 +38,7 @@
 	}
 
 	"WaitingForPlayersEndingLabel"
-	{	
+	{
 		"ControlName"		"Label"
 		"fieldName"		"WaitingForPlayersEndingLabel"
 		"font"			"HudFontMedium"

@@ -5,7 +5,7 @@
 	"QuestItemPanel"
 	{
 		// Use Operation 1 Pauling
-		"TrackerPanelResFile"	"resource/UI/quests/pauling/QuestItemTrackerPanel_QuestLog.res"	
+		"TrackerPanelResFile"	"resource/UI/quests/pauling/QuestItemTrackerPanel_QuestLog.res"
 		"ItemAttributeResFile"	"resource/UI/quests/pauling/QuestObjectivePanel_QuestLog.res"
 
 		"anim_reset"				"QuestItem_Operation2_Reset"
@@ -127,7 +127,7 @@
 					"scaleImage"	"1"
 					"image"			"contracts\contracts_folder1_front"
 					"proportionaltoparent"	"1"
-				
+
 					"mouseinputenabled"	"0"
 					"keyboardinputenabled" "0"
 				}
@@ -180,7 +180,7 @@
 							"scaleImage"	"1"
 							"image"			"contracts/sticky"
 							"proportionaltoparent"	"1"
-				
+
 							"mouseinputenabled"	"0"
 							"keyboardinputenabled" "0"
 						}
@@ -242,7 +242,7 @@
 							"scaleImage"	"1"
 							"image"			"contracts/sticky_turn_in"
 							"proportionaltoparent"	"1"
-				
+
 							"mouseinputenabled"	"0"
 							"keyboardinputenabled" "0"
 						}
@@ -308,7 +308,7 @@
 							"scaleImage"	"1"
 							"image"			"contracts/sticky_inactive"
 							"proportionaltoparent"	"1"
-				
+
 							"mouseinputenabled"	"0"
 							"keyboardinputenabled" "0"
 						}

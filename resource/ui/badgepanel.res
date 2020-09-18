@@ -1,12 +1,12 @@
 "Resource/UI/BadgePanel.res"
 {
-	"BadgePanel"	
+	"BadgePanel"
 	{
 		"ControlName"	"CModelImagePanel"
 		"fieldName"		"BadgePanel"
 		"xpos"			"0"
 		"ypos"			"0"
-		"zpos"			"0"		
+		"zpos"			"0"
 		"wide"			"f0"
 		"tall"			"f0"
 		"autoResize"	"0"
@@ -16,7 +16,7 @@
 		"fov"			"70"
 		"start_framed"	"0"
 		"proportionaltoparent"	"1"
-		
+
 		"model"
 		{
 			"force_pos"		"1"
@@ -29,7 +29,7 @@
 			"origin_y"		"0"
 			"origin_z"		"2"
 			"spotlight"	"1"
-			
+
 			"animation"
 			{
 				"sequence"	"idle"

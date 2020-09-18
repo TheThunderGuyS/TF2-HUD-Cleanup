@@ -1,6 +1,6 @@
 "Resource/UI/disguise_menu/base.res"
 {
-	"ClassIcon"	
+	"ClassIcon"
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"ClassIcon"
@@ -11,7 +11,7 @@
 		"tall"			"120"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"	
+		"scaleImage"	"1"
 		"icon"			"hud_menu_spy_red"
 	}
 }

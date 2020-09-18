@@ -1,5 +1,5 @@
 "Resource/UI/Quests/LineItem_Points.res"
-{	
+{
 	"Points"
 	{
 		"fieldName"		"Points"

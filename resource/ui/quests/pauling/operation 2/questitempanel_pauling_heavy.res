@@ -13,6 +13,6 @@
 					"image"			"contracts/photo_heavy1"
 				}
 			}
-		}	
-	}	
+		}
+	}
 }

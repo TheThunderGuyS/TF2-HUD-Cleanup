@@ -1,21 +1,21 @@
 #base "..\QuestObjectivePanel_InGame_Base.res"
 
 "Resource/UI/HudAchievementTrackerItem.res"
-{	
+{
 	"QuestObjectiveTextPanel"
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"QuestObjectiveTextPanel"
-		"xpos"			"cs-0.5"		
-		"ypos"			"0"		
+		"xpos"			"cs-0.5"
+		"ypos"			"0"
 		"zpos"			"3"
 		"wide"			"148"
 		"tall"			"18"
 		"visible"		"1"
-		"enabled"		"1"	
+		"enabled"		"1"
 		"proportionaltoparent"	"1"
 		"map_view"	"1"
-		
+
 		"PaintBackgroundType"	"2"
 
 		"enabled_text_color_override"		"TanLight"
@@ -43,7 +43,7 @@
 		"proportionaltoparent" "1"
 		"wrap"			"1"
 	}
-	
+
 	"AttribDesc"
 	{
 		"ControlName"	"Label"

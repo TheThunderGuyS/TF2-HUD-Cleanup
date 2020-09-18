@@ -1,5 +1,5 @@
 "Resource/UI/HudObjectiveKothTimePanel.res"
-{	
+{
 	"HudKothTimeStatus"
 	{
 		if_match
@@ -44,7 +44,7 @@
 			"delta_lifetime"		"1.5"
 			"delta_item_font"		"HudFontMediumSmall"
 		}
-		
+
 		"TimePanelValue"
 		{
 			"ControlName"		"CExLabel"
@@ -85,9 +85,9 @@
 				"font"			"HudFontSmall"
 				"font_minmode"	"HudFontSmall"
 				"font_lodef"	"HudFontSmall"
-			
+
 			}
-		}	
+		}
 	}
 
 	"RedTimer"
@@ -126,7 +126,7 @@
 			"delta_lifetime"		"1.5"
 			"delta_item_font"		"HudFontMediumSmall"
 		}
-		
+
 		"TimePanelValue"
 		{
 			"ControlName"		"CExLabel"
@@ -167,11 +167,11 @@
 				"font"			"HudFontSmall"
 				"font_minmode"	"HudFontSmall"
 				"font_lodef"	"HudFontSmall"
-			
+
 			}
-		}	
+		}
 	}
-	
+
 	"ActiveTimerBG"
 	{
 		"ControlName"		"ImagePanel"
@@ -186,7 +186,7 @@
 		"tall_minmode"		"21"
 		"visible"			"0"
 		"enabled"			"1"
-		"image"				"../hud/objectives_timepanel_active_bg"	
-		"scaleImage"		"1"	
+		"image"				"../hud/objectives_timepanel_active_bg"
+		"scaleImage"		"1"
 	}
 }

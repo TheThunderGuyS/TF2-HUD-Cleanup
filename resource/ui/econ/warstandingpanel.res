@@ -1,6 +1,6 @@
 "Resource/UI/WarStandintPanel.res"
 {
-	
+
 	"Team0Container"
 	{
 		"ControlName"	"EditablePanel"

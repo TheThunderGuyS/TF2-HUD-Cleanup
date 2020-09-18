@@ -52,7 +52,6 @@
 		"border"		"MainMenuBGBorder"
 	}
 
-
 	"PartyActiveGroupBox"
 	{
 		"xpos"			"c+100"

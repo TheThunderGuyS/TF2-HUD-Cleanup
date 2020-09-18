@@ -129,7 +129,6 @@
 
 	}
 
-
 	"TradeUpContainer"
 	{
 		"PaperContainer"
@@ -145,7 +144,7 @@
 				"zpos"			"1"
 				"wide"			"150"
 				"tall"			"50"
-				"pinCorner"		"0"	
+				"pinCorner"		"0"
 				"visible"		"1"
 				"enabled"		"1"
 				"labelText"		"#TF_CollectionCrafting_TitleJoke0"
@@ -168,7 +167,7 @@
 				"zpos"			"1"
 				"wide"			"250"
 				"tall"			"300"
-				"pinCorner"		"0"	
+				"pinCorner"		"0"
 				"visible"		"1"
 				"enabled"		"1"
 				"labelText"		"#TF_CollectionCrafting_SaxtonMessage"
@@ -190,7 +189,7 @@
 				"zpos"			"1"
 				"wide"			"p0.56"
 				"tall"			"300"
-				"pinCorner"		"0"	
+				"pinCorner"		"0"
 				"visible"		"1"
 				"enabled"		"1"
 				"labelText"		"#TF_CollectionCrafting_Instructions"
@@ -201,7 +200,7 @@
 				"fgcolor"		"RedSolid"
 				"wrap"			"1"
 			}
-	
+
 			"OkButton"
 			{
 				"ControlName"	"CExButton"

@@ -18,7 +18,7 @@
 		"paintbackground"		"1"
 		"bgcolor_override"	"Econ.Dialog.BgColor"
 	}
-	
+
 	"TitleLabel"
 	{
 		"ControlName"		"CExLabel"
@@ -37,7 +37,7 @@
 		"enabled"		"1"
 		"fgcolor_override" "200 80 60 255"
 	}
-	
+
 	"ExplanationLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -57,7 +57,7 @@
 		"centerwrap"	"1"
 		"fgcolor_override" "TanLight"
 	}
-		
+
 	"CancelButton"
 	{
 		"ControlName"	"CExButton"
@@ -88,7 +88,7 @@
 		"depressedBgColor_override"	"Econ.Button.DepressedBgColor"
 		"depressedFgColor_override"	"Econ.Button.DepressedFgColor"
 	}
-	
+
 	"CancelButtonHintIcon"
 	{
 		"ControlName"	"CSCHintIcon"
@@ -101,7 +101,7 @@
 		"visible"		"1"
 		"actionSet"		"MenuControls"
 		"actionName"	"menu_cancel"
-	}		
+	}
 
 	"ConfirmButton"
 	{
@@ -134,7 +134,7 @@
 		"depressedBgColor_override"	"Econ.Button.DepressedBgColor"
 		"depressedFgColor_override"	"Econ.Button.DepressedFgColor"
 	}
-	
+
 	"ConfirmButtonHintIcon"
 	{
 		"ControlName"	"CSCHintIcon"
@@ -147,5 +147,5 @@
 		"visible"		"1"
 		"actionSet"		"MenuControls"
 		"actionName"	"menu_select"
-	}					
+	}
 }

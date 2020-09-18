@@ -29,6 +29,6 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../logo/TF2_Logo"
-		"scaleImage"	"1"		
+		"scaleImage"	"1"
 	}
 }

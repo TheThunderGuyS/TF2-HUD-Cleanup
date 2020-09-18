@@ -4,19 +4,19 @@
 	{
 		"ControlName"		"CNewGameDialog"
 		"fieldName"		"NewGameDialog"
-		"xpos"		"340"	
-		"ypos"		"194"	
-		"wide"		"600"	
-		"tall"		"318"	
+		"xpos"		"340"
+		"ypos"		"194"
+		"wide"		"600"
+		"tall"		"318"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"0"
-		"settitlebarvisible"		"1"	
+		"settitlebarvisible"		"1"
 		"title"		"#GameUI_NewGame"
 	}
-	"Next" 
+	"Next"
 	{
 		"ControlName"		"Button"
 		"fieldName"		"Next"
@@ -37,7 +37,7 @@
 		"Command"		"next"
 		"Default"		"0"
 	}
-	"Prev" 
+	"Prev"
 	{
 		"ControlName"		"Button"
 		"fieldName"		"Prev"
@@ -58,7 +58,7 @@
 		"Command"		"Prev"
 		"Default"		"0"
 	}
-	"Play" 
+	"Play"
 	{
 		"ControlName"		"Button"
 		"fieldName"		"Play"
@@ -79,7 +79,7 @@
 		"Command"		"Play"
 		"Default"		"1"
 	}
-	"Cancel" 
+	"Cancel"
 	{
 		"ControlName"		"Button"
 		"fieldName"		"Cancel"
@@ -100,7 +100,7 @@
 		"Command"		"Close"
 		"Default"		"0"
 	}
-	"divider"	
+	"divider"
 	{
 		"ControlName"		"Divider"
 		"fieldName"		"divider"
@@ -114,14 +114,14 @@
 		"enabled"		"1"
 		"tabPosition"		"0"
 	}
-	"Div"	
+	"Div"
 	{
 		"ControlName"		"Divider"
 		"fieldName"		"Div"
-		"xpos"		"24"	
-		"ypos"		"236"	
-		"wide"		"548"	
-		"tall"		"2"		
+		"xpos"		"24"
+		"ypos"		"236"
+		"wide"		"548"
+		"tall"		"2"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -136,14 +136,14 @@
 	{
 		"ControlName"		"CNewGameDialog"
 		"fieldName"		"NewGameDialog"
-		"xpos"		"180"	
-		"ypos"		"280"	
-		"wide"		"775"	
-		"tall"		"280"	
-		"chapterypos"		"90"	
-		"scrollslow"		"0.2"	
-		"scrollfast"		"0.1"	
-		"centerbgtall"		"190"	
+		"xpos"		"180"
+		"ypos"		"280"
+		"wide"		"775"
+		"tall"		"280"
+		"chapterypos"		"90"
+		"scrollslow"		"0.2"
+		"scrollfast"		"0.1"
+		"centerbgtall"		"190"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -153,7 +153,7 @@
 		"title"		"#GameUI_NewGame"
 		"paintbackground"	"1"
 	}
-	"LeftArrow" 
+	"LeftArrow"
 	{
 		"ControlName" 		"Label"
 		"fieldName"		"LeftArrow"

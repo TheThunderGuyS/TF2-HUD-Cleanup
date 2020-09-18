@@ -19,7 +19,7 @@
 		"teambg_3"		"../hud/death_panel_blue_bg"
 	}
 	"GoalLabel"
-	{	
+	{
 		"ControlName"		"Label"
 		"fieldName"		"GoalLabel"
 		"font"			"HudFontSmall"

@@ -1,5 +1,5 @@
 "Resource/UI/HudAchievementTrackerItem.res"
-{	
+{
 	"QuestObjectiveTextPanel"
 	{
 		"ControlName"	"EditablePanel"
@@ -10,10 +10,10 @@
 		"wide"			"f0"
 		"tall"			"f0"
 		"visible"		"1"
-		"enabled"		"1"	
+		"enabled"		"1"
 		"mouseinputenabled"	"0"
 		"proportionaltoparent"	"1"
-		
+
 		"PaintBackgroundType"	"2"
 
 		"enabled_text_color_override"		"Black"
@@ -21,7 +21,7 @@
 		"normal_token"		"#QuestObjective_Required"
 		"advanced_token"	"#QuestObjective_Optional"
 	}
-	
+
 	"AttribDesc"
 	{
 		"ControlName"	"CExLabel"
