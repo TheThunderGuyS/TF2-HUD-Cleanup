@@ -21,13 +21,13 @@
 
 		"encoded_text"	"#QuestLog_Encoded_Merasmus"
 		"expire_text"	"#TF_QuestExpirationWarning_Halloween"
-		"TrackerPanelResFile"	"resource/UI/quests/merasmus/QuestItemTrackerPanel_QuestLog.res"	
+		"TrackerPanelResFile"	"resource/UI/quests/merasmus/QuestItemTrackerPanel_QuestLog.res"
 		"ItemAttributeResFile"	"resource/UI/quests/merasmus/QuestObjectivePanel_QuestLog.res"
 
 		"decode_style"	"1"
 
 		// Sound effects
-		"turn_in_sound"				"ui/quest_turn_in_decode_halloween.wav" 
+		"turn_in_sound"				"ui/quest_turn_in_decode_halloween.wav"
 		"turn_in_success_sound"		"ui/quest_turn_in_accepted_halloween.wav"
 		"decode_sound"				"ui/quest_decode_halloween.wav"
 		"collapse_sound"			"ui/quest_folder_close_halloween.wav"
@@ -182,7 +182,6 @@
 					}
 				}
 
-
 				"IdentifyButtonContainer"
 				{
 					"ControlName"			"EditablePanel"
@@ -214,7 +213,7 @@
 					"IdentifyButton"
 					{
 						"labelText"		"#QuestLog_Identify_Merasmus"
-	
+
 						"font"			"QuestLargeText_Merasmus"
 						"allcaps"	"1"
 						"textAlignment"	"center"
@@ -330,7 +329,6 @@
 					}
 				}
 
-
 				"AcceptedImage"
 				{
 					"ControlName"	"ImagePanel"
@@ -343,8 +341,8 @@
 					"visible"		"0"
 					"enabled"		"1"
 					"image"			"contracts/halloween/accepted"
-					"scaleImage"	"1"	
-					"proportionaltoparent"	"1"	
+					"scaleImage"	"1"
+					"proportionaltoparent"	"1"
 				}
 
 				"StaticPhoto"
@@ -363,7 +361,7 @@
 					"ypos"					"55"
 					"zpos"					"10"
 					"tall"					"220"
-				
+
 					"QuestExpirationWarning"
 					{
 						"font"					"QuestInstructionText_Merasmus"
@@ -384,7 +382,6 @@
 					}
 				}
 			}
-
 
 			"BackFolderContainer"
 			{
@@ -529,5 +526,5 @@
 				}
 			}
 		}
-	}	
+	}
 }

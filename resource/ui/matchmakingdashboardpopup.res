@@ -193,7 +193,6 @@
 					"paintbackground"	"1"
 				}
 
-
 				"LeavePartyButton"
 				{
 					"ControlName"	"CExButton"
@@ -452,7 +451,7 @@
 				"fieldName"		"Spinner"
 				"xpos"			"cs-0.5"
 				"ypos"			"12"
-				"zpos"			"1"		
+				"zpos"			"1"
 				"wide"			"o1"
 				"tall"			"40"
 				"autoResize"	"0"
@@ -695,7 +694,7 @@
 				"fieldName"		"Spinner"
 				"xpos"			"cs-0.5"
 				"ypos"			"12"
-				"zpos"			"1"		
+				"zpos"			"1"
 				"wide"			"o1"
 				"tall"			"40"
 				"autoResize"	"0"

@@ -15,7 +15,6 @@
 		"bgcolor_override"	"0 0 0 50"
 	}
 
-
 	"LoadingPanel"
 	{
 		"ControlName"	"EditablePanel"
@@ -65,7 +64,6 @@
 			"proportionaltoparent"	"1"
 		}
 	}
-
 
 	"PreviewImage"
 	{
@@ -157,7 +155,7 @@
 		"sound_released"	"UI/buttonclickrelease.wav"
 
 		"border_armed"		"TeamMenuBorder"
-			
+
 		"defaultFgColor_override" "0 0 0 0"
 		"defaultBgColor_override" "0 0 0 0"
 		"armedFgColor_override" "0 0 0 0"

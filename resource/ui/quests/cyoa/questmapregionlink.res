@@ -29,7 +29,7 @@
 			"mouseinputenabled"	"0"
 			"autoResize"	"3"
 			"drawcolor"	"QuestMap_ActiveOrange"
-		}	
+		}
 
 		"LinkRegionNameButton"
 		{

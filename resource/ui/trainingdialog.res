@@ -28,7 +28,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"0"
-		
+
 		"class_list"
 		{
 			"ControlName"	"PanelListPanel"

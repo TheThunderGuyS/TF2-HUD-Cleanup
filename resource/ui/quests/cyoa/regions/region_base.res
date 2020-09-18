@@ -112,9 +112,9 @@
 			"mouseinputenabled"		"0"
 			"keyboardinputenabled"	"0"
 			"alpha"			"0"
-					
+
 			"bgcolor_override" "0 0 0 255"
 		}
-		
+
 	}
 }

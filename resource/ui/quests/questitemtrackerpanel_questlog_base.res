@@ -1,7 +1,7 @@
 #base "QuestItemTrackerPanel_Base.res"
 
 "Resource/UI/HudAchievementTrackerItem.res"
-{	
+{
 	"ItemTrackerPanel"
 	{
 		"xpos"					"0"
@@ -23,10 +23,10 @@
 	{
 		"visible"		"0"
 	}
-	
+
 	"ProgressBarBG"
 	{
-		"wide"			"f0"	
+		"wide"			"f0"
 		"proportionaltoparent" "1"
 
 		"bgcolor_override"	"0 0 0 80"

@@ -3,11 +3,11 @@
 "Resource/UI/destroy_menu/sentry_already_built.res"
 {
 	"ItemNameLabel"
-	{	
+	{
 		"labelText"		"#TF_Object_Sentry_360"
 	}
-	
-	"BuildingIcon"	
+
+	"BuildingIcon"
 	{
 		"xpos"			"10"
 		"ypos"			"8"

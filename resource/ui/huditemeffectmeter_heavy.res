@@ -14,7 +14,7 @@
 		"MeterFG"		"White"
 		"MeterBG"		"Gray"
 	}
-	
+
 	"ItemEffectMeterBG"
 	{
 		"ControlName"	"CTFImagePanel"
@@ -28,13 +28,13 @@
 		"visible_minmode"	"0"
 		"enabled"		"1"
 		"image"			"../hud/misc_ammo_area_horiz2_blue"
-		"scaleImage"	"1"	
+		"scaleImage"	"1"
 		"teambg_2"		"../hud/misc_ammo_area_horiz2_red"
 		"teambg_2_lodef"	"../hud/misc_ammo_area_red_lodef"
 		"teambg_3"		"../hud/misc_ammo_area_horiz2_blue"
-		"teambg_3_lodef"	"../hud/misc_ammo_area_blue_lodef"				
+		"teambg_3_lodef"	"../hud/misc_ammo_area_blue_lodef"
 	}
-	
+
 	"ItemEffectMeterLabel"
 	{
 		"ControlName"			"CExLabel"
@@ -61,7 +61,7 @@
 	}
 
 	"ItemEffectMeter"
-	{	
+	{
 		"ControlName"			"ContinuousProgressBar"
 		"fieldName"				"ItemEffectMeter"
 		"font"					"Default"
@@ -72,7 +72,7 @@
 		"zpos"					"2"
 		"wide"					"30"
 		"wide_minmode"			"50"
-		"tall"					"5"				
+		"tall"					"5"
 		"autoResize"			"0"
 		"pinCorner"				"0"
 		"visible"				"1"
@@ -81,7 +81,7 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 	}
-	
+
 	"ItemEffectMeterLabel2"
 	{
 		"ControlName"			"CExLabel"
@@ -105,7 +105,7 @@
 		"brighttext"			"0"
 		"font"					"TFFontSmall"
 	}
-	
+
 	"KillComboClassIcon1"
 	{
 		"ControlName"	"ImagePanel"
@@ -118,7 +118,7 @@
 		"visible_minmode"		"0"
 		"enabled"		"1"
 		"image"			"../HUD/leaderboard_class_scout"
-		"scaleImage"	"1"	
+		"scaleImage"	"1"
 	}
 	"KillComboClassIcon2"
 	{
@@ -132,7 +132,7 @@
 		"visible_minmode"		"0"
 		"enabled"		"1"
 		"image"			"../HUD/leaderboard_class_scout"
-		"scaleImage"	"1"	
+		"scaleImage"	"1"
 	}
 	"KillComboClassIcon3"
 	{
@@ -146,6 +146,6 @@
 		"visible_minmode"		"0"
 		"enabled"		"1"
 		"image"			"../HUD/leaderboard_class_scout"
-		"scaleImage"	"1"	
+		"scaleImage"	"1"
 	}
 }

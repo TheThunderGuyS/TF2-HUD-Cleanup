@@ -1,5 +1,5 @@
 "Resource/UI/HudAchievementFloatingNumber.res"
-{	
+{
 	"FloatingAchievementNumber"
 	{
 		"ControlName"	"EditablePanel"
@@ -10,9 +10,9 @@
 		"wide"			"128"
 		"tall"			"32"
 		"visible"		"1"
-		"enabled"		"1"	
+		"enabled"		"1"
 	}
-	
+
 	"FloatingNumberLabel"
 	{
 		"ControlName"	"Label"

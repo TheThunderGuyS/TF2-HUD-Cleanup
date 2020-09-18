@@ -3,11 +3,11 @@
 "Resource/UI/destroy_menu/dispenser_already_built.res"
 {
 	"ItemNameLabel"
-	{	
+	{
 		"labelText"		"#TF_Object_Dispenser"
 	}
-		
-	"BuildingIcon"	
+
+	"BuildingIcon"
 	{
 		"xpos"			"10"
 		"ypos"			"16"

@@ -1,5 +1,5 @@
 "Resource/UI/Quests/LineItem_Credits.res"
-{	
+{
 	"Credits"
 	{
 		"fieldName"		"Credits"

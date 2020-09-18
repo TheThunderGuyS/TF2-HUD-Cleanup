@@ -19,7 +19,7 @@
 		"teambg_3"		"../hud/death_panel_blue_bg"
 	}
 	"SwitchLabel"
-	{	
+	{
 		"ControlName"		"Label"
 		"fieldName"		"SwitchLabel"
 		"font"			"TFFontMedium"
@@ -39,7 +39,7 @@
 		"textAlignment"		"North"
 	}
 	"BalanceLabel"
-	{	
+	{
 		"ControlName"		"Label"
 		"fieldName"		"BalanceLabel"
 		"font"			"HudFontSmallBold"

@@ -1,5 +1,5 @@
 "Resource/UI/MvMVictoryPanel.res"
-{	
+{
 	"SplashContainer"
 	{
 		"ControlName"	"EditablePanel"
@@ -9,7 +9,7 @@
 		"wide"			"300"
 		"tall"			"300"
 		"visible"		"1"
-		
+
 		"SplashBackground"
 		{
 			"ControlName"		"ScalableImagePanel"
@@ -24,7 +24,7 @@
 			"enabled"		"1"
 			"image"			"../hud/ammo_red_bg"
 		}
-		
+
 		"SplashLabelShadow"
 		{
 			"ControlName"	"CExLabel"
@@ -38,7 +38,7 @@
 			"tall"			"50"
 			"fgcolor"		"black"
 		}
-		
+
 		"SplashLabel"
 		{
 			"ControlName"	"CExLabel"

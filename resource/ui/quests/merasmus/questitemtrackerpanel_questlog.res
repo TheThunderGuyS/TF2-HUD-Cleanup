@@ -1,7 +1,7 @@
 #base "..\QuestItemTrackerPanel_QuestLog_Base.res"
 
 "Resource/UI/HudAchievementTrackerItem.res"
-{	
+{
 	"ItemTrackerPanel"
 	{
 		"item_attribute_res_file" "resource/UI/quests/merasmus/QuestObjectivePanel_QuestLog.res"
@@ -13,7 +13,7 @@
 	{
 		"visible"		"0"
 	}
-	
+
 	"ProgressBarBG"
 	{
 		"tall"	"10"

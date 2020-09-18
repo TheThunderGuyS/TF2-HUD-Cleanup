@@ -63,7 +63,6 @@
 		"defaultBgColor_override"	"0 0 0 150"
 		"armedBgColor_override"		"Orange"
 
-
 		"armedFgColor_override"		"TanLight"
 
 		"sound_armed"		"ui/item_info_mouseover.wav"
@@ -114,7 +113,7 @@
 		"scaleImage"			"1"
 		"proportionaltoparent"	"1"
 		"mouseinputenabled"		"0"
-		
+
 		"bgcolor_override"		"26 23 22 255"
 	}
 

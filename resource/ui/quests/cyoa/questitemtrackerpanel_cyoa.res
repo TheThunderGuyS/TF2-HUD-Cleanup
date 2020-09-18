@@ -1,13 +1,13 @@
 #base "..\QuestItemTrackerPanel_InGame_Base.res"
 
 "Resource/UI/HudAchievementTrackerItem.res"
-{	
+{
 	"ItemTrackerPanel"
 	{
 		"fieldName"		"ItemTrackerPanel"
-		"xpos"			"cs-0.5"	
+		"xpos"			"cs-0.5"
 		"ypos"			"25"
-		"wide"			"f10"	
+		"wide"			"f10"
 		"tall"			"100"
 		"progress_bar_standard_loc_token"	"#QuestPoints_Standard"
 		"progress_bar_advanced_loc_token"	"#QuestPoints_Bonus"
@@ -273,7 +273,7 @@
 		"scaleImage"	"1"
 		"proportionaltoparent" "1"
 	}
-	
+
 	"Star1"
 	{
 		"ControlName"	"ImagePanel"
@@ -289,7 +289,7 @@
 		"scaleImage"	"1"
 		"proportionaltoparent" "1"
 	}
-	
+
 	"Star2"
 	{
 		"ControlName"	"ImagePanel"
@@ -304,19 +304,19 @@
 		"image"			"cyoa/star_on"
 		"scaleImage"	"1"
 		"proportionaltoparent" "1"
-	}				
+	}
 
 	"NotYetCommittedContainer"
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"NotYetCommittedContainer"
-		"xpos"			"rs1"		
-		"ypos"			"0"		
+		"xpos"			"rs1"
+		"ypos"			"0"
 		"zpos"			"3"
 		"wide"			"f0"
 		"tall"			"10"
 		"visible"		"1"
-		"enabled"		"1"	
+		"enabled"		"1"
 
 		"proportionaltoparent" "1"
 

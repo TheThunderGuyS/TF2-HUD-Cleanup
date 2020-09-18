@@ -28,12 +28,12 @@
 		"visible"		"1"
 		"visible_minmode""0"
 		"enabled"		"1"
-		"scaleImage"	"1"	
+		"scaleImage"	"1"
 		"image"				"../hud/ammo_blue_bg"
 		"teambg_2"			"../hud/ammo_red_bg"
 		"teambg_2_lodef"	"../hud/ammo_red_bg_lodef"
 		"teambg_3"			"../hud/ammo_blue_bg"
-		"teambg_3_lodef"	"../hud/ammo_blue_bg_lodef"					
+		"teambg_3_lodef"	"../hud/ammo_blue_bg_lodef"
 	}
 
 	"ItemEffectIcon"
@@ -50,7 +50,7 @@
 		"visible_minmode""1"
 		"enabled"		"1"
 		"image"			"../hud/pyro_jetpack_off2"
-		"scaleImage"	"1"	
+		"scaleImage"	"1"
 	}
 
 	"ItemEffectMeterLabel"
@@ -78,7 +78,7 @@
 	}
 
 	"ItemEffectMeter"
-	{	
+	{
 		"ControlName"	"ContinuousProgressBar"
 		"fieldName"		"ItemEffectMeter"
 		"font"			"Default"
@@ -89,7 +89,7 @@
 		"zpos"			"2"
 		"wide"			"22"
 		"wide_minmode"	"22"
-		"tall"			"8"				
+		"tall"			"8"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -101,7 +101,7 @@
 	}
 
 	"ItemEffectMeter2"
-	{	
+	{
 		"ControlName"	"ContinuousProgressBar"
 		"fieldName"		"ItemEffectMeter2"
 		"font"			"Default"
@@ -111,7 +111,7 @@
 		"ypos_minmode"	"40"
 		"zpos"			"2"
 		"wide"			"22"
-		"tall"			"8"				
+		"tall"			"8"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"

@@ -1,7 +1,7 @@
 "Resource/UI/build_menu/dispenser_inactive.res"
 {
 	"ItemNameLabel"
-	{	
+	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ItemNameLabel"
 		"font"			"Default"
@@ -20,8 +20,8 @@
 		"brighttext"	"0"
 		"fgcolor"		"0 255 0 255"
 	}
-	
-	"ItemBackground"	
+
+	"ItemBackground"
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"ItemBackground"
@@ -32,13 +32,13 @@
 		"tall"			"105"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"	
+		"scaleImage"	"1"
 		"icon"			"hud_menu_item_bg_outline"
 		"iconColor"		"0 0 0 255"
 	}
-	
+
 	"NotBuiltLabel"
-	{	
+	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"NotBuiltLabel"
 		"font"			"Default"
@@ -56,10 +56,10 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"fgcolor"		"0 255 0 255"
-	}	
+	}
 
 	"UnavailableLabel"
-	{	
+	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"UnavailableLabel"
 		"font"			"Default"
@@ -76,9 +76,9 @@
 		"textAlignment"	"Center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-	}		
-			
-	"NumberBg"	
+	}
+
+	"NumberBg"
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"NumberBg"
@@ -89,13 +89,13 @@
 		"tall"			"18"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"	
+		"scaleImage"	"1"
 		"icon"			"ico_key_blank"
 		"iconColor"		"0 255 0 128"
 	}
-	
+
 	"NumberLabel"
-	{	
+	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel"
 		"font"			"HudMenuNumberFont"

@@ -16,7 +16,7 @@
 		"PaintBackgroundType"	"2"
 		"bgcolor_override"	"59 54 48 255"
 	}
-	
+
 	"DirectionsLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -35,7 +35,7 @@
 		"enabled"		"1"
 		"wrap"			"0"
 	}
-	
+
 	"URLInput"
 	{
 		"ControlName"	"TextEntry"
@@ -58,10 +58,10 @@
 		"fgcolor_override"		"0 0 0 255"
 		"bgcolor_override"		"202 190 164 255"
 		"Font"			"HudFontSmallestBold"
-		
+
 		"selectallonfirstfocus"	"1"
 	}
-	
+
 	"CategoryCombo"
 	{
 		"ControlName"	"ComboBox"
@@ -85,7 +85,7 @@
 		"bgcolor_override"		"202 190 164 255"
 		"Font"			"HudFontSmallestBold"
 	}
-	
+
 	"CancelButton"
 	{
 		"ControlName"	"CExButton"
@@ -109,7 +109,7 @@
 		"Command"		"cancel"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-	}		
+	}
 
 	"RulesButton"
 	{
@@ -134,8 +134,8 @@
 		"Command"		"rules"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-	}		
-	
+	}
+
 	"SubmitButton"
 	{
 		"ControlName"	"CExButton"
@@ -159,5 +159,5 @@
 		"Command"		"submit"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-	}		
+	}
 }

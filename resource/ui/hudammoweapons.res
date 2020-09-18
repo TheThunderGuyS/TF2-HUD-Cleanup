@@ -14,11 +14,11 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../hud/ammo_blue_bg"
-		"scaleImage"	"1"	
+		"scaleImage"	"1"
 		"teambg_2"		"../hud/ammo_red_bg"
 		"teambg_2_lodef"	"../hud/ammo_red_bg_lodef"
 		"teambg_3"		"../hud/ammo_blue_bg"
-		"teambg_3_lodef"	"../hud/ammo_blue_bg_lodef"			
+		"teambg_3_lodef"	"../hud/ammo_blue_bg_lodef"
 	}
 	"HudWeaponLowAmmoImage"
 	{
@@ -34,11 +34,11 @@
 		"visible"		"0"
 		"enabled"		"1"
 		"image"			"../hud/ammo_red_bg"
-		"scaleImage"	"1"	
+		"scaleImage"	"1"
 		"teambg_2"		"../hud/ammo_red_bg"
 		"teambg_2_lodef"	"../hud/ammo_red_bg_lodef"
 		"teambg_3"		"../hud/ammo_blue_bg"
-		"teambg_3_lodef"	"../hud/ammo_blue_bg_lodef"			
+		"teambg_3_lodef"	"../hud/ammo_blue_bg_lodef"
 	}
 	"AmmoInClip"
 	{
@@ -57,10 +57,10 @@
 		"tall_lodef"	"45"
 		"visible"		"0"
 		"enabled"		"1"
-		"textAlignment"	"south-east"	
+		"textAlignment"	"south-east"
 		"labelText"		"%Ammo%"
-		
-	}		
+
+	}
 	"AmmoInClipShadow"
 	{
 		"ControlName"	"CExLabel"
@@ -81,10 +81,10 @@
 		"tall_lodef"	"45"
 		"visible"		"0"
 		"enabled"		"1"
-		"textAlignment"	"south-east"	
+		"textAlignment"	"south-east"
 		"labelText"		"%Ammo%"
-		
-	}						
+
+	}
 	"AmmoInReserve"
 	{
 		"ControlName"	"CExLabel"
@@ -103,9 +103,9 @@
 		"tall_lodef"	"30"
 		"visible"		"0"
 		"enabled"		"1"
-		"textAlignment"	"south-west"		
+		"textAlignment"	"south-west"
 		"labelText"		"%AmmoInReserve%"
-	}		
+	}
 	"AmmoInReserveShadow"
 	{
 		"ControlName"	"CExLabel"
@@ -124,9 +124,9 @@
 		"tall_lodef"	"30"
 		"visible"		"0"
 		"enabled"		"1"
-		"textAlignment"	"south-west"		
+		"textAlignment"	"south-west"
 		"labelText"		"%AmmoInReserve%"
-	}									
+	}
 	"AmmoNoClip"
 	{
 		"ControlName"	"CExLabel"
@@ -143,10 +143,10 @@
 		"tall_lodef"	"45"
 		"visible"		"0"
 		"enabled"		"1"
-		"textAlignment"	"south-east"		
+		"textAlignment"	"south-east"
 		"labelText"		"%Ammo%"
-		
-	}	
+
+	}
 	"AmmoNoClipShadow"
 	{
 		"ControlName"	"CExLabel"
@@ -167,8 +167,8 @@
 		"tall_lodef"	"45"
 		"visible"		"0"
 		"enabled"		"1"
-		"textAlignment"	"south-east"		
+		"textAlignment"	"south-east"
 		"labelText"		"%Ammo%"
-		
-	}									
+
+	}
 }

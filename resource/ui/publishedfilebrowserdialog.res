@@ -73,7 +73,7 @@
 		"brighttext"		"0"
 		"wrap"		"0"
 	}
-	
+
 	"LabelPublishedFileTitle"
 	{
 		"ControlName"		"Label"
@@ -115,7 +115,7 @@
 		// "editable"		"0"
 		// "maxchars"		"128"
 	}
-	
+
 	"LabelPublishedFileDesc"
 	{
 		"ControlName"		"Label"
@@ -223,7 +223,7 @@
 		"Command"		"EditFile"
 		"Default"		"0"
 	}
-	
+
 	"ButtonRefresh"
 	{
 		"ControlName"		"Button"

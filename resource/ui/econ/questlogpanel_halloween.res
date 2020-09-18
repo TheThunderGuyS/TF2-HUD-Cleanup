@@ -16,7 +16,6 @@
 		"proportionaltoparent" "1"
 	}
 
-
 	"MainContainer"
 	{
 		"border"		"MainMenuBGBorder"
@@ -43,7 +42,7 @@
 			"bgcolor_override"	"0 0 0 0"
 
 			"ContractsCompletedProgressMeter"
-			{	
+			{
 				"visible"		"0"
 			}
 		}

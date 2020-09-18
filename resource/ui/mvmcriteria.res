@@ -255,7 +255,6 @@
 			}
 		}
 
-
 		"MannUpTicketCountLabel"
 		{
 			"ControlName"	"Label"

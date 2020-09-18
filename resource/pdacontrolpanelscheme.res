@@ -21,10 +21,10 @@ Scheme
 		"BaseText"		"200 200 200 255"		// used in text windows, lists
 		"BrightBaseText" "255 255 255 255"		// brightest text
 		"DimBaseText"	"150 150 150 255"		// dim base text
-		
+
 		"LabelDimText"	"160 170 149 255"		// slight modification on above, used for info text
 												// could be just removed and use DimBaseText?
-		
+
 		"ControlText"	"48 192 192 255"		// used in all text controls
 		"BrightControlText"	"64 224 224 255"	// use for selected controls
 		"DisabledText1"	"32 128 128 255"		// disabled text
@@ -47,7 +47,7 @@ Scheme
 		"BorderBright"	"136 145 128 255"		// the lit side of a control
 		"BorderDark"	"45 49 40 255"		// the dark/unlit side of a control
 		"BorderSelection"	"0 0 0 255"		// the additional border color for displaying the default/selected button
-		
+
 		"Red"	"255 0 0 255"
 		"Green" "0 255 0 255"
 		"Transparent" "0 0 0 0"     //added
@@ -61,10 +61,10 @@ Scheme
 	{
 		"FgColor"			"ControlText"
 		"BgColor"			"Transparent" //was "ControlBG"
-		"LabelBgColor"		"ControlBG"  
+		"LabelBgColor"		"ControlBG"
 		"SubPanelBgColor"	"ControlBG"
 
-		"DisabledFgColor1"		"DisabledText1" 
+		"DisabledFgColor1"		"DisabledText1"
 		"DisabledFgColor2"		"DisabledText2"		// set this to the BgColor if you don't want it to draw
 
 		"TitleBarFgColor"			"TitleText"
@@ -80,7 +80,7 @@ Scheme
 		"TitleButtonFgColor"			"BorderBright"
 		"TitleButtonBgColor"			"ControlBG"
 		"TitleButtonDisabledFgColor"	"TitleDimText"
-		"TitleButtonDisabledBgColor"	"TitleDimBG"   
+		"TitleButtonDisabledBgColor"	"TitleDimBG"
 
 		"TextCursorColor"			"BaseText"		// color of the blinking text cursor in text entries
 		"URLTextColor"				"BrightBaseText"		// color that URL's show up in chat window
@@ -99,12 +99,12 @@ Scheme
 		MenuButton	  // the little arrow on the side of boxes that triggers drop down menus
 		{
 			"ButtonArrowColor"	"DimBaseText"	// color of arrows
-		   	"ButtonBgColor"		"WindowBG"	// bg color of button. same as background color of text edit panes 
-			
+		   	"ButtonBgColor"		"WindowBG"	// bg color of button. same as background color of text edit panes
+
 			"ArmedArrowColor"		"BrightBaseText" // color of arrow when mouse is over button
 			"ArmedBgColor"		"DimBaseText"  // bg color of button when mouse is over button
 		}
-				
+
 		Button.ArmedTextColor			"Red"
 		Button.ArmedBgColor				"Green"
 
@@ -125,10 +125,9 @@ Scheme
 
 			"ButtonFgColor"		"DimBaseText"	// color of arrows
 		}
-		
+
 		// for spy invis progressbar
 		ProgressBar.BgColor				"Transparent"
-
 
 		// text edit windows
 		"WindowFgColor"				"BaseText"		// off-white
@@ -138,11 +137,11 @@ Scheme
 
 		"SelectionFgColor"			"255 255 255 255"		// fg color of selected text
 		"SelectionBgColor"			"SelectionBG"
-		"ListSelectionFgColor"		"255 255 255 255"			// 
+		"ListSelectionFgColor"		"255 255 255 255"			//
 
 		"ListBgColor"				"62 70 55 255"	// background of server browser control, etc
 		"BuddyListBgColor"			"62 70 55 255"	// background of buddy list pane
-		
+
 		// App-specific stuff
 		"ChatBgColor"				"WindowBgColor"
 
@@ -309,7 +308,7 @@ Scheme
 				}
 			}
 		}
-		
+
 		TitleButtonBorder
 		{
 			"inset" "0 0 1 1"
@@ -588,7 +587,6 @@ Scheme
 				}
 			}
 		}
-
 
 		ToolTipBorder
 		{

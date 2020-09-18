@@ -25,13 +25,13 @@
 		"Command"		"debug_menu"
 		"proportionaltoparent" "1"
 		"actionsignallevel"	"1"
-			
+
 		"paintbackground"	"0"
-			
+
 		"defaultFgColor_override" "0 0 0 0"
 		"armedFgColor_override" "200 80 60 255"
 		"depressedFgColor_override" "46 43 42 255"
-			
+
 		"image_drawcolor"	"0 0 0 0"
 		"image_armedcolor"	"200 80 60 255"
 		"SubImage"
@@ -47,7 +47,7 @@
 			"enabled"		"1"
 			"image"			"glyph_workshop_edit"
 			"scaleImage"	"1"
-		}				
+		}
 	} // Debug button
 
 	"CloseButton"
@@ -75,13 +75,13 @@
 		"Command"		"close"
 		"proportionaltoparent"	"1"
 		"actionsignallevel"	"1"
-			
+
 		"paintbackground"	"0"
-			
+
 		"defaultFgColor_override" "46 43 42 255"
 		"armedFgColor_override" "235 226 202 255"
 		"depressedFgColor_override" "46 43 42 255"
-			
+
 		"image_drawcolor"	"117 107 94 255"
 		"image_armedcolor"	"200 80 60 255"
 		"SubImage"
@@ -98,8 +98,8 @@
 			"image"			"close_button"
 			"scaleImage"	"1"
 			"proportionaltoparent"	"1"
-		}				
-	}		
+		}
+	}
 
 	"TitleLabel"
 	{
@@ -194,7 +194,7 @@
 			"tall"			"10"
 			"visible"		"1"
 			"enabled"		"1"
-			"scaleImage"	"1"	
+			"scaleImage"	"1"
 			"proportionaltoparent"	"1"
 			"image"			"info"
 		}
@@ -252,8 +252,6 @@
 			"pin_to_sibling_corner" "PIN_BOTTOMLEFT"
 		}
 
-		
-
 		"RewardContainer"
 		{
 			"ControlName"	"EditablePanel"
@@ -295,7 +293,7 @@
 				"tall"			"10"
 				"visible"		"1"
 				"enabled"		"1"
-				"scaleImage"	"1"	
+				"scaleImage"	"1"
 				"proportionaltoparent"	"1"
 				"image"			"info"
 			}
@@ -326,7 +324,7 @@
 					"visible"		"1"
 					"enabled"		"1"
 					"proportionaltoparent"	"1"
-					"mouseinputenabled"	"0"	
+					"mouseinputenabled"	"0"
 					"labeltext"	"#TF_QuestView_Reward_Claimed"
 					"textAlignment"	"center"
 					"font"	"QuestMap_Large"
@@ -369,11 +367,11 @@
 					"scaleImage"	"1"
 					"proportionaltoparent"	"1"
 					"mouseinputenabled"	"0"
-				}			
+				}
 			}
 
 			"RewardItemModelPanel"
-			{		
+			{
 				"ControlName"	"CItemModelPanel"
 				"fieldName"		"RewardItemModelPanel"
 				"xpos"			"rs1-5"
@@ -387,7 +385,7 @@
 				"proportionaltoparent"	"1"
 				"mouseinputenabled"	"1"
 				"border"		"EconItemBorder"
-		
+
 				"model_xpos"	"5"
 				"model_ypos"	"2"
 				"model_wide"	"70"
@@ -396,9 +394,9 @@
 				"attrib_only"	"0"
 				"model_only"	"1"
 				"paint_icon_hide"	"0"
-		
+
 				"text_ypos"		"10"
-		
+
 				"itemmodelpanel"
 				{
 
@@ -419,7 +417,7 @@
 					"visible"		"1"
 					"enabled"		"1"
 					"proportionaltoparent"	"1"
-					"mouseinputenabled"	"0"	
+					"mouseinputenabled"	"0"
 					"labeltext"	"#TF_QuestView_Reward_Claimed"
 					"textAlignment"	"center"
 					"font"	"QuestMap_Large"

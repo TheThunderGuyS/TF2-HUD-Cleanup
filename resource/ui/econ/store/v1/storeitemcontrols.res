@@ -35,22 +35,22 @@
 		"default"		"1"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-		
+
 		"border_default"	"MainMenuMiniButtonDefault"
 		"border_armed"		"MainMenuMiniButtonArmed"
 		"paintbackground"	"0"
-		
+
 		"defaultFgColor_override" "46 43 42 255"
 		"armedFgColor_override" "46 43 42 255"
 		"depressedFgColor_override" "46 43 42 255"
-		
+
 		"image_drawcolor"	"235 226 202 255"
-		"image_armedcolor"	"235 226 202 255"	
+		"image_armedcolor"	"235 226 202 255"
 
 		"send_panel_enter_and_exits" "1"
 
 		"Command"		"addtocart"
-		
+
 		"SubImage"
 		{
 			"ControlName"	"ImagePanel"
@@ -64,6 +64,6 @@
 			"enabled"		"1"
 			"image"			"store_cart"
 			"scaleImage"	"1"
-		}				
-	}		
+		}
+	}
 }

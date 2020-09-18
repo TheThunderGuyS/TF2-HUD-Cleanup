@@ -1,5 +1,5 @@
 "Resource/UI/Quests/QuestObjectiveScorer.res"
-{	
+{
 	"Scorer"
 	{
 		"fieldName"		"Scorer"
@@ -7,7 +7,7 @@
 		"wide"			"200"
 		"tall"			"18"
 		"visible"		"1"
-		"enabled"		"1"	
+		"enabled"		"1"
 	}
 
 	"ScorerLabel"

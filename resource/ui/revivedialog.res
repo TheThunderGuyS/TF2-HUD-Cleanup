@@ -35,7 +35,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 		}
-	
+
 		"ExplanationLabel"
 		{
 			"ControlName"	"CExLabel"
@@ -97,7 +97,7 @@
 			"wide"				"48"
 			"tall"				"48"
 			"visible"			"1"
-			"enabled"			"1"	
+			"enabled"			"1"
 			"HealthBonusPosAdj"	"10"
 			"HealthDeathWarning"		"0.49"
 			"TFFont"					"HudFontSmallest"

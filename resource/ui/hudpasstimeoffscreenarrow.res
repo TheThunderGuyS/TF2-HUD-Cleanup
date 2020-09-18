@@ -11,6 +11,6 @@
 		"tall"			"30"
 		"visible"		"0"
 		"enabled"		"1"
-		"scaleImage"	"1"	
+		"scaleImage"	"1"
 	}
 }

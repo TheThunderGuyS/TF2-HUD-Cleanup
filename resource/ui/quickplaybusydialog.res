@@ -122,8 +122,8 @@
 			"Command"		"user_close"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
-		}			
-		
+		}
+
 	}
 
 	"ResultsContainer"
@@ -239,7 +239,7 @@
 			"Command"		"user_close"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
-		}			
-		
+		}
+
 	}
 }

@@ -46,13 +46,13 @@
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"
 		"border"		"MainMenuBGBorder"
-		
+
 		"text_ypos"			"20"
 		"text_center"		"1"
 		"model_hide"		"1"
 		"resize_to_text"	"1"
 		"padding_height"	"15"
-		
+
 		"attriblabel"
 		{
 			"font"			"ItemFontAttribLarge"
@@ -93,8 +93,8 @@
 		"fgcolor"		"QuestGold"
 
 		"pin_to_sibling"               "MainContainer"
-		"pin_corner_to_sibling"        "6"          
-		"pin_to_sibling_corner"        "4"  
+		"pin_corner_to_sibling"        "6"
+		"pin_to_sibling_corner"        "4"
 	}
 
 	"MainContainer"
@@ -122,10 +122,9 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"image"			"quest_details_background"
-			"scaleImage"	"1"	
-			"proportionaltoparent"	"1"	
+			"scaleImage"	"1"
+			"proportionaltoparent"	"1"
 		}
-
 
 		"CharacterContainer"
 		{
@@ -153,8 +152,8 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"image"			"quest_pauling"
-				"scaleImage"	"1"	
-				"proportionaltoparent"	"1"	
+				"scaleImage"	"1"
+				"proportionaltoparent"	"1"
 			}
 		} // character panel
 
@@ -197,7 +196,6 @@
 			}
 		}
 
-		
 		"QuestName"
 		{
 			"ControlName"	"CExLabel"
@@ -223,8 +221,8 @@
 			"PaintBackgroundType"	"2"
 
 			"pin_to_sibling"               "ScrollableQuestDetails"
-			"pin_corner_to_sibling"        "2"          
-			"pin_to_sibling_corner"        "0"  
+			"pin_corner_to_sibling"        "2"
+			"pin_to_sibling_corner"        "0"
 		}
 
 		"ScrollableQuestDetails"
@@ -280,15 +278,15 @@
 
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
-			
+
 				"border_default"	"MainMenuButtonDefault"
 				"border_armed"		"MainMenuButtonArmed"
 				"paintbackground"	"0"
-			
+
 				"defaultFgColor_override" "46 43 42 255"
 				"armedFgColor_override" "235 226 202 255"
 				"depressedFgColor_override" "46 43 42 255"
-			
+
 				"image_drawcolor"	"117 107 94 255"
 				"image_armedcolor"	"235 226 202 255"
 
@@ -353,20 +351,20 @@
 
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
-			
+
 				"border_default"	"MainMenuButtonDefault"
 				"border_armed"		"MainMenuButtonArmed"
 				"paintbackground"	"0"
-			
+
 				"defaultFgColor_override" "46 43 42 255"
 				"armedFgColor_override" "235 226 202 255"
 				"depressedFgColor_override" "46 43 42 255"
-			
+
 				"image_drawcolor"	"117 107 94 255"
 				"image_armedcolor"	"235 226 202 255"
 
 				"command"	"discard_quest"
-				
+
 				"SubImage"
 				{
 					"ControlName"	"ImagePanel"
