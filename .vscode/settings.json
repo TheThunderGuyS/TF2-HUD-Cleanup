@@ -1,7 +1,10 @@
 {
     "files.associations": {
-      "*.txt": "vdf",
+        "*.txt": "vdf",
     },
     "files.trimTrailingWhitespace": true,
-    "files.insertFinalNewline": true
+    "files.insertFinalNewline": true,
+    "editor.detectIndentation": false,
+    "editor.insertSpaces": true,
+    "editor.tabSize": 4
 }
